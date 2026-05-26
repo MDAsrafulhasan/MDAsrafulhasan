@@ -208,11 +208,11 @@ class AsrafulHasan:
 | | |
 |:---:|:---:|
 | 🎮 **6+ Years** of Mobile Legends: Bang Bang | 🏆 **Narsingdi MLBB Meetup** Organizer |
-| 💼 Worked with **Prospect Engine LLC** | 🌏 Based in **Narsingdi, Bangladesh** |
+| **2+ Years** of Pubg Battlegrounds | 💼 Worked with **Prospect Engine LLC** |
 
 </div>
 
----
+
 
 
 <!-- <div align="center">
@@ -229,13 +229,13 @@ class AsrafulHasan:
 
 </div> -->
 
----
+
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<br/><br/>
+<br/><br/> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d0d0d&height=130&section=footer&animation=fadeIn" />
 
