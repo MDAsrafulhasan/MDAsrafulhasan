@@ -239,6 +239,4 @@ class AsrafulHasan:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d0d0d&height=130&section=footer&animation=fadeIn" />
 
-**⭐ If you like my work, give my repos a star — it really motivates me! 😊**
-
 </div>
